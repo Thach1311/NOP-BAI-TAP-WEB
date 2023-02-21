@@ -1,0 +1,116 @@
+/* CSS bai 10 */
+.main10{
+    box-shadow: 5px 5px 5px 1px;
+    width: 500px;
+    height: 200px;
+    background-color: #d1cccc;
+    margin-left: 35%;
+    margin-bottom: 10%;
+    padding: 10px;
+}
+
+
+/*  CSS bai 11 */
+.main11 {
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ffffff;
+    width: 500px;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-left: 35%;
+    height: 500px;
+    margin-bottom: 10%;
+}
+.main11 a{
+    color: blue;
+}
+.main11 a:hover{
+    color: blueviolet;
+}
+
+/* CSS bai 13 */
+.main13__input-form{
+    margin-bottom: 20px;
+}
+.main13__input{
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ffffff;
+    width: 300px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 400px;
+    margin-bottom: 10%;
+    
+}
+.main13{
+    display: flex;
+    justify-content: center;
+}
+
+/* CSS bai 14 */
+.main14{
+    display: flex;
+    justify-content: center;
+}
+.main14__form{
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ffffff;
+    width: 800px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 700px;
+    margin-bottom: 10%;
+}
+/* CSS bai 16 */
+.main16{
+    display: flex;
+    justify-content: center;
+}
+.main16__form{
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ffffff;
+    width: 400px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 650px;
+    margin-bottom: 10%;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 550;
+}
+
+/* CSS bai 17 */
+.main17{
+    display: flex;
+    justify-content: center;
+}
+.main17__form{
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ddac1b;
+    width: 900px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 1000px;
+    margin-bottom: 10%;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 550;
+}
+
+/* CSS bai 18 */
+.main18{
+    display: flex;
+    justify-content: center;
+}
+.main18_form{
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #c5b998;
+    width: 500px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 100px;
+    margin-bottom: 10%;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 550;
+}
