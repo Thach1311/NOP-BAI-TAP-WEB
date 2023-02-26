@@ -1,23 +1,29 @@
 /* CSS bai 10 */
+.bai10{
+    display: flex;
+    justify-content: center;
+}
 .main10{
     box-shadow: 5px 5px 5px 1px;
     width: 500px;
     height: 200px;
     background-color: #d1cccc;
-    margin-left: 35%;
-    margin-bottom: 10%;
     padding: 10px;
+    
 }
 
 
 /*  CSS bai 11 */
+.bai11{
+    display: flex;
+    justify-content: center;
+}
 .main11 {
     box-shadow: 1px 3px 10px 1px;
     background-color: #ffffff;
     width: 500px;
     padding-left: 20px;
     margin-top: 20px;
-    margin-left: 35%;
     height: 500px;
     margin-bottom: 10%;
 }
@@ -27,7 +33,11 @@
 .main11 a:hover{
     color: blueviolet;
 }
-
+/* CSS BAI 12 */
+.bai12{
+    display: flex;
+    justify-content: center;
+}
 /* CSS bai 13 */
 .main13__input-form{
     margin-bottom: 20px;
@@ -59,6 +69,34 @@
     padding: 20px;
     margin-top: 20px;
     height: 700px;
+    margin-bottom: 10%;
+}
+/* CSS bai 15 */
+.bai15{
+    display: flex;
+    justify-content: center;
+}
+.main15{
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ffffff;
+    width: 800px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 450px;
+    margin-bottom: 10%;
+}
+
+.bai15b{
+    display: flex;
+    justify-content: center;
+}
+.main15b{
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ffffff;
+    width: 800px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 570px;
     margin-bottom: 10%;
 }
 /* CSS bai 16 */
@@ -94,6 +132,23 @@
     margin-bottom: 10%;
     font-size: 18px;
     line-height: 30px;
+    font-weight: 550;
+}
+
+.bai17b{
+    display: flex;
+    justify-content: center;
+}
+.main17b {
+    box-shadow: 1px 3px 10px 1px;
+    background-color: #ffffff;
+    width: 400px;
+    padding: 20px;
+    margin-top: 20px;
+    height: 450px;
+    margin-bottom: 10%;
+    font-size: 18px;
+    line-height: 24px;
     font-weight: 550;
 }
 

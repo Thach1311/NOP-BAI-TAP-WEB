@@ -113,7 +113,7 @@
     margin-left: 42%;
 }
 
-#dbee31 .main6_table3 {
+.main6_table3 {
     box-shadow: 5px 5px 5px 1px;
     background-color: #d0d0d0;
     width: 200px;
@@ -122,19 +122,26 @@
     margin-left: 42%;
 }
 
-.main6_table4 {
+.main6__c{
     /* box-shadow: 5px 5px 5px 1px;
-    background-color: #ffd699;
-    width: 440px;
-    height: 210px; */
     /* padding: 20px;
     margin-top: 30px;
     margin-left: 42%;
     text-align: center;
     padding-left: 50px;
     margin-bottom: 20px; */
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
-
+.main6_table4{
+    background-color: #ffd699;
+    text-align: center;
+    width: 440px;
+    height: 210px;
+    padding: 10px 5px 30px 15px;
+}
 
 /* CSS bai 7 */
 
@@ -194,8 +201,9 @@
 /* CSS bai 9 */
 
 .main9 {
-    margin-left: 40%;
-    margin-bottom: 20px;
+  
+   display: flex;
+  justify-content: center;
 }
 
 .main9 table {
