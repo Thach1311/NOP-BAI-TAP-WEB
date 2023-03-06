@@ -1,0 +1,17 @@
+
+
+/* css bai 2 */
+
+.bai2 {
+    display: flex;
+    justify-content: center;
+}
+
+.main2 {
+    background-color: rgb(212, 208, 193);
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px;
+    padding: 40px;
+}
