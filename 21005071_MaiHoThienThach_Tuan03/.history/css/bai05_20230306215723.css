@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-image: url(/img/img1.gif),url(/img/img2.jpg) ;
+    back
+    height: 400px;
+    width: 500px;
+}
